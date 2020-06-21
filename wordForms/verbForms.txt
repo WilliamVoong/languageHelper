@@ -1,0 +1,4 @@
+grundform 2
+dåtid 1
+nutid 1
+supinum 2
