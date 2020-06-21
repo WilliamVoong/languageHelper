@@ -230,7 +230,7 @@ nameEntered.grid(column=2, row=0, pady=(10, 25), padx=(25, 0), columnspan=4)
 frame= tk.Frame( window,width=250,height=245,borderwidth = 1,highlightbackground="black",highlightthickness=1)
 frame.grid(column=0, row=0,columnspan=2,sticky="N", pady=(10),padx=20)
 frame.pack_propagate(0)
-label = ttk.Text(frame, text=" Enter the word to be translated ",wraplengt=200, width=23)
+label = ttk.Label(frame, text=" Enter the word to be translated ",wraplengt=200, width=23)
 label.pack()
 label.config(font=("Georgia", 13))
 
