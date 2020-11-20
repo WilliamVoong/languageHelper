@@ -1,3 +1,7 @@
+
+Currently the project doesnt work because an open issue https://github.com/ssut/py-googletrans/issues/234 for the translating library the project will be updated once they have fixed the issue
+
+
 # languageHelper
 As my mother and girlfriend is learning swedish, i noticed that it was inefficient for them to find words in their dictionary, 
 and even more inefficient to find the related grammar forms for a word. Therefore i created a application which handled this task.
@@ -11,4 +15,4 @@ be translated into swedish. Shortly the phrase will be queried find a related we
 ![alt text](https://preview.redd.it/tn7k2x6mc3651.png?width=608&format=png&auto=webp&s=4f8eb1a9571f1476e6b9af6df73362886d7185ae)
 
 
-Currently the project doesnt work because an open issue https://github.com/ssut/py-googletrans/issues/234 for the translating library the project will be updated once they have fixed the issue
+
